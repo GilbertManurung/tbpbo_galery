@@ -1,0 +1,36 @@
+# pubspec.yaml yang sudah benar
+name: tbpbo_galery
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.7.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  flutter_svg: ^2.0.9
+  image_picker: ^1.0.4
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+# Untuk implementasi download yang lebih lengkap di masa depan,
+# Anda bisa menambahkan dependencies berikut:
+# path_provider: ^2.1.1
+# permission_handler: ^11.0.1
+
+# Dan tambahkan permissions di android/app/src/main/AndroidManifest.xml:
+# <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+# <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+# <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
