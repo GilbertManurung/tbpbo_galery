@@ -8,4 +8,7 @@ A new Flutter project.
 = https://youtu.be/nXKk-2aiUG4?si=CbrxHwUsZXxIJKN0
 
 # Untuk Cara Implementasi Aplikasi yaa buat Sebagai Berikut : 
-1.
+1.gitclone https://github.com/GilbertManurung/tbpbo_galery.git
+2.cd tbpbo_galery
+3.flutter pub get 
+4.(" repusitory letak folder yang kamu simpan ")/tbpbo_galery/
