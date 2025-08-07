@@ -1,3 +1,8 @@
+Nama : Gilbert F Manrung
+Npm : 613220010
+Mata Kuliah : Pemograman Untuk Perangkat Bergerak 
+
+
 # tbpbo_galery
 
 A new Flutter project.
@@ -11,4 +16,5 @@ A new Flutter project.
 1.gitclone https://github.com/GilbertManurung/tbpbo_galery.git
 2.cd tbpbo_galery
 3.flutter pub get 
-4.(" repusitory letak folder yang kamu simpan ")/tbpbo_galery/
+4.(" repusitory letak folder yang kamu simpan ")/tbpbo_galery/node server js
+5.aplikasi siap untuk di jalankan 
